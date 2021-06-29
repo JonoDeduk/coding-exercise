@@ -60,7 +60,7 @@ export const SearchPage = withRouter(() => {
                 <Option
                   size="large"
                   key={option.label}
-                  value={option.value}
+                  value={option.queryParam}
                 >
                   {option.label}
                 </Option>
