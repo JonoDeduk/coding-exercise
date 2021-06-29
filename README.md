@@ -17,6 +17,14 @@ You will also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm test-coverage`
+
+Launches the test runner in the interactive watch mode and creates a coverage report for the app.<br />
+
+### `npm run lint`
+
+Launches [ESlint](https://eslint.org/) to ensure that the code follows the [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react//).
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
